@@ -14,3 +14,9 @@ a{color:var(--ink)}
 footer{margin-top:72px;padding-top:24px;border-top:1px solid var(--line);font-size:14px;color:var(--dim)}
 footer a{color:var(--dim);margin-right:18px}
 @media (max-width:480px){h1{font-size:34px}main{padding-top:48px}}
+
+.doc h1{font-size:38px;margin-top:48px}
+.doc h2{font-size:20px}
+.doc h3{font-size:17px;margin:28px 0 6px}
+.doc code{font-family:ui-monospace,Menlo,monospace;font-size:.92em;color:var(--ink)}
+.doc li{margin:6px 0}
